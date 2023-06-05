@@ -1,2 +1,2 @@
 # BankBalance
-Different rate interest with multiple years using standard Java programming.
+Different interest rate with multiple years using standard Java programming.
